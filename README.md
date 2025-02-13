@@ -8,3 +8,18 @@ Step 6: Initialize your repository with Git, this enables source control
 Step 7: When you are ready to make your first commit, press the commit button and add a message to describe your changes. Then, select the check mark in the top right.
 Step 8: On the left hand side, under Source Control Graph, press the cloud with an up arrow to publish the branch to github
 Step 9: Add a README file if you havent already, and you're all done
+
+
+
+Branch
+Clone
+Commit
+Fetch
+GIT
+Github
+Merge
+Merge Conflict
+Push
+Pull
+Remote
+Repository
