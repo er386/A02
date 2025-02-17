@@ -11,15 +11,15 @@ Step 9: Add a README file if you havent already, and you're all done
 
 
 
-Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+Branch - A branch is used to have different lines or branches of development. It is a seperate from other branches and has different changes
+Clone - A clonme is a copy of a repository that you can work on locally
+Commit - commit means saving the current changes you made to a repository with a message
+Fetch - Fetch retrieves updates from a repository without merging them into a branch  
+GIT - Git is a software that allows you to have source control for your code. It allows you to track changes and have multiple versions at once. 
+Github - Github uses git to host repositories on the cloud which better enables collaboration version control and project management 
+Merge - Merging is combining changes made on two different branches into one singular branch
+Merge Conflict - Merge Conflict is what you get when you're merging two different branches and you try to merge changes that were made on the same part of a file.
+Push - Push uploads commits made on your local repository to a remote one
+Pull - Pull fetches updates from a remote repository and merges them with your local branch
+Remote - Remote means it is hosted elsewhere like a server instead of on your local machine
+Repository - A repository is a storage location for project files and their version history
